@@ -24,12 +24,17 @@
 ![training06](https://user-images.githubusercontent.com/30090343/234039337-29b8aae8-c17e-4695-ba09-0a9e6e127786.PNG)
 
 
-
 ### Multi-instance training:
+
+![training-multiinstance-02](https://user-images.githubusercontent.com/30090343/234040866-b4553b37-a8b8-42fd-9447-afadc549e1a5.PNG)
+
+![training-multiinstance-01](https://user-images.githubusercontent.com/30090343/234040856-998e9e4d-c123-4183-95d5-81b62a7e6a99.PNG)
+
 
 ### Deployment:
 
-![endpoint01-single-instance](https://user-images.githubusercontent.com/30090343/234039743-9c31ef4b-aaee-4871-958c-c18608b988d5.PNG)
+![endpoint01-single-instance](https://user-images.githubusercontent.com/30090343/234040779-69a176e0-1d9c-41c7-a93b-98fc6deac60c.PNG)
+
 
 ![endpoint01-multi-instance](https://user-images.githubusercontent.com/30090343/234039751-2c46716f-4f1b-455d-8368-203be744e9f6.PNG)
 
