@@ -4,9 +4,34 @@
 
 ### Initial setup:
 
-### Training and deployment:
+![s3](https://user-images.githubusercontent.com/30090343/234039014-63e8eea9-02e5-453f-a576-6bef6648b289.PNG)
+
+![Notebook instances](https://user-images.githubusercontent.com/30090343/234039027-7a3e736b-d5e9-420b-b7ab-ce51f50d44a3.PNG)
+
+
+### Training:
+
+![training_jops](https://user-images.githubusercontent.com/30090343/234039200-10e72f8e-273f-465a-978f-2829474a19e9.PNG)
+
+![training](https://user-images.githubusercontent.com/30090343/234039306-cdce7836-e141-445b-99b9-07a1a4f37a03.PNG)
+
+![training03](https://user-images.githubusercontent.com/30090343/234039320-9774c31f-84b4-44ba-a687-9c9585807fae.PNG)
+
+![training04](https://user-images.githubusercontent.com/30090343/234039323-d56b9243-2e99-4ffb-8e34-3066d1dec7b8.PNG)
+
+![training05](https://user-images.githubusercontent.com/30090343/234039330-058da136-b24d-4f1d-adf6-b3cf9212bbb2.PNG)
+
+![training06](https://user-images.githubusercontent.com/30090343/234039337-29b8aae8-c17e-4695-ba09-0a9e6e127786.PNG)
+
+
 
 ### Multi-instance training:
+
+### Deployment:
+
+![endpoint01-single-instance](https://user-images.githubusercontent.com/30090343/234039743-9c31ef4b-aaee-4871-958c-c18608b988d5.PNG)
+
+![endpoint01-multi-instance](https://user-images.githubusercontent.com/30090343/234039751-2c46716f-4f1b-455d-8368-203be744e9f6.PNG)
 
 ## Step 2: EC2 Training:
 
@@ -14,7 +39,18 @@
 
 ### Preparing for EC2 model training:
 
+![ec2-01](https://user-images.githubusercontent.com/30090343/234039996-1474488d-626a-4e81-adb8-d56599710807.PNG)
+
+![ec2-02](https://user-images.githubusercontent.com/30090343/234040082-e552b812-8a21-42c4-832f-722bc19a21fe.PNG)
+
 ### Training and saving on EC2:
+
+![ec2-04](https://user-images.githubusercontent.com/30090343/234040247-066f275e-0990-448d-a06a-7c59522354f0.PNG)
+
+![ec2-05](https://user-images.githubusercontent.com/30090343/234040251-d3cd6c61-d76d-43a2-95aa-6571b1b01143.PNG)
+
+![ec2-03](https://user-images.githubusercontent.com/30090343/234040243-85fbec6f-f56e-4de8-ba0e-529df923586c.PNG)
+
 
 In EC2 training, we need to set up our own EC2 instance and then install the necessary software packages, libraries, and frameworks to train the machine learning model. We then need to upload the training data to the EC2 instance, and then run the training script on the EC2 instance. The training script should be written in a way that it can read the training data from the instance, perform the necessary computations, and then write the trained model to the instance.
 
